@@ -28,11 +28,11 @@ async def repo(_, m: Message):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{ChampuBot.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ᴄʜᴧᴍᴘᴜ", url="https://t.me/TheChampu"),
-          InlineKeyboardButton("sʜɪᴠᴀɴsʜᴜ", url="https://t.me/TheShivanshu"),
+          InlineKeyboardButton("𝐺𝑅𝑂𝑈𝑃 🥀", url="https://t.me/Friendship_Club_Group"),
+          InlineKeyboardButton("𝒄𝒉𝒂𝒏𝒏𝒆𝒍 ✨", url="https://t.me/Feeling_smiley"),
           ],
                [
-                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/itsmeshivanshu"),
+                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/ll_DEVIL_VENOM_ll"),
 
 ],
 [
